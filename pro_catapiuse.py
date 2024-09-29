@@ -5,8 +5,8 @@ from requests.exceptions import HTTPError
 
 API_KEY = os.environ.get("CAT_API_KEY")
 url = "https://api.thecatapi.com/v1/images/search/"
-payload = {"format":"json","has_breeds":0,"breed_ids":"abys",
-           "limit":10,"page":3,"order":"ASC"}
+payload = {"format":"json","has_breeds":1,"breed_ids":"beng",
+           "limit":10,"page":7,"order":"ASC"}
 headers = {"x-api-key":"API_KEY"}
 
 try:
