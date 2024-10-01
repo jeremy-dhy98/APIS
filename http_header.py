@@ -11,7 +11,7 @@
 import requests
 from requests.exceptions import HTTPError
 
-url = "https://api.githup.com/search/repositories"
+url = "https://api.github.com/search/repositories"
 params = {"q":"language:python","sort":"stars","order":"desc","limit":4} #or b"q:language:python&sort:stars&order:desc"(params as bytes)
 headers = {}
 try:
