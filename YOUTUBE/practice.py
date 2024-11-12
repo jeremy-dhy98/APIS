@@ -5,7 +5,7 @@ api_key = os.environ.get("YOUTUBE_API")
 
 yt = build("youtube", "v3", developerKey=api_key)
 request = yt.channels().list(part="statistics",
-                             forUsername="Benpriest")
+                             forUsername="Tim")
 results = request.execute()
 
 
