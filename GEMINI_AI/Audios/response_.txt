@@ -1,0 +1,20 @@
+Hello and welcome. 
+I'm Jeremiah Mulwa and I'm a programmer. 
+I use Python programming to do data analysis, 
+And I am a data analyst and I'm a data engineer. 
+Right now, I am on my Anaconda account.
+It's a cloud account. 
+I'm using Anaconda notebooks for this project. 
+In this project, 
+I will be showing you how you can use... 
+data to solve business-based problems,
+and get to make informed decisions when...😂😂😂 
+making business policies. 
+Right, let's let's dive in.
+Uh, we will start by importing the vital libraries...
+which are needed for this project,
+which is pandas, matplotlib for plotting, 
+plotting to visualize our data and Seaborn.
+We'll use the inline style of the matplotlib. 
+First, we begin by loading our data set and...
+we view the data set available in the
